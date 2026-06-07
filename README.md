@@ -9,10 +9,11 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+**The unofficial student-experience guide to John Jay College of Criminal Justice (CUNY).**
+
+The system answers "what's it actually like, and what can I get out of it?" for John Jay students across six themes: extracurricular activities and clubs, student opportunities (research/honors/scholarships), student reviews, graduation & retention outcomes, career-fair opportunities, and on-campus jobs.
+
+This knowledge is valuable but scattered: official facts are buried across unrelated departmental pages, honest sentiment about professors and the commuter experience lives on Niche/Rate My Professors/Reddit, and real outcome numbers live on third-party data sites. No single official channel combines them — this guide does, pairing official facts with unofficial student opinion so one question can be answered from one place.
 
 ---
 
@@ -24,16 +25,22 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | John Jay — Student Organizations | Official (clubs) | https://www.jjay.cuny.edu/student-life/center-student-involvement-leadership/student-organizations |
+| 2 | John Jay — Activities & Events | Official (events) | https://www.jjay.cuny.edu/student-life/center-student-involvement-leadership/activities-events |
+| 3 | John Jay — PRISM Research Program | Official (opportunity) | https://www.jjay.cuny.edu/research/student-research/program-research-initiatives-science-math |
+| 4 | John Jay — Honors & Achievement Programs | Official (opportunity) | https://www.jjay.cuny.edu/academics/undergraduate-programs/honors-achievement-programs |
+| 5 | John Jay — Research & Creativity Scholarships | Official (opportunity) | https://www.jjay.cuny.edu/research/student-research/office-student-research-creativity/research-creativity-scholarships/undergraduategraduate-researchcreativity-assistant-scholarship |
+| 6 | Niche — Reviews | Unofficial (reviews) | https://www.niche.com/colleges/cuny-john-jay-college-of-criminal-justice/reviews/ |
+| 7 | Niche — Campus Life | Unofficial (reviews) | https://www.niche.com/colleges/cuny-john-jay-college-of-criminal-justice/campus-life/ |
+| 8 | Rate My Professors — John Jay (#227) | Unofficial (reviews) | https://www.ratemyprofessors.com/school/227 |
+| 9 | College Factual — Graduation & Retention | Third-party (stats) | https://www.collegefactual.com/colleges/cuny-john-jay-college-of-criminal-justice/academic-life/graduation-and-retention/ |
+| 10 | Data USA — John Jay profile | Third-party (stats) | https://datausa.io/profile/university/cuny-john-jay-college-of-criminal-justice |
+| 11 | John Jay — Quick Facts 2023 (PDF) | Official (stats) | https://www.jjay.cuny.edu/sites/default/files/2024-05/QUICK%20FACTS%202023.pdf |
+| 12 | John Jay — Career Building & Job Search | Official (careers) | https://www.jjay.cuny.edu/student-life/career-building-job-search |
+| 13 | John Jay — Spring Career & Internship Fair | Official (career fair) | https://www.jjay.cuny.edu/news-events/events/spring-career-internship-fair |
+| 14 | John Jay — Career Fair news story | Official (career fair) | https://www.jjay.cuny.edu/news-events/news/career-internship-fair-gives-students-invaluable-networking-opportunities |
+| 15 | John Jay — Federal Work-Study | Official (campus jobs) | https://www.jjay.cuny.edu/admissions/tuition-financial-aid/federal-work-study |
+| 16 | CUNY Jobs — John Jay campus | Official (campus jobs) | https://cuny.jobs/campus/john-jay-college/jobs/ |
 
 ---
 
