@@ -6,7 +6,7 @@ from ingest import load_documents, clean_text, chunk_text
 
 COLLECTION_NAME = "john_jay_guide"
 EMBED_MODEL     = "all-MiniLM-L6-v2"
-TOP_K           = 5
+TOP_K           = 7
 
 # ── Shared model + collection (loaded once) ───────────────────────────────────
 
